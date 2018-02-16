@@ -21,7 +21,9 @@ Simply download this repo, sort through and import any files you want into your 
 
 ## Usage
 
-The usage is very straight forward and simple. Say you want to use the `makeCircle()` function in the `ZB-UIViewExtension.swift` file
+The usage is very straight forward, say you want to use the `makeCircle()` function in the `ZB-UIViewExtension.swift` file
   1) Download Repo
   2) Add the file to your project
   3) Make this call wherever needed: `myView.makeCircle()`
+
+Its a pretty simple to use, just look over and use which ever files you deem necessary.
